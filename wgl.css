@@ -1,0 +1,3 @@
+/* CSS Document */
+#marquee{position:relative;overflow:hidden;}
+#marquee dl{position:absolute;}

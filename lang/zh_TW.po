@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Group List\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-27 15:58+0800\n"
+"PO-Revision-Date: 2011-05-27 15:59+0800\n"
+"Last-Translator: Richer Yanf <fantasyworldidvtw@gmail.com>\n"
+"Language-Team: richer <fantasyworldidvtw@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../admin.php:6
+msgid "Settings"
+msgstr "設定"
+
+#: ../admin.php:18
+msgid "Please add the \"WGL post\" widget."
+msgstr "請加入 \" WGL post \" 模組佈景中。"
+
+#: ../admin.php:49
+msgid "Bad login/pass combination."
+msgstr "錯誤的 帳號/密碼 組合。"
+
+#: ../admin.php:54
+msgid "All setting are not change!"
+msgstr "所有的設定未更新！"
+
+#: ../admin.php:60
+msgid "Options saved."
+msgstr "更新儲存成功。"
+
+#: ../admin.php:81
+msgid "Add in list success."
+msgstr "成功加入列表。"
+
+#: ../admin.php:105
+msgid "Update data success."
+msgstr "列表資料更新成功。"
+
+#: ../admin.php:111
+msgid "I suggest you join the WordPress Group list, in order to have better communication."
+msgstr "建議你加入 WordPress聚落 列表，以便擁有更佳的交流。"
+
+#: ../admin.php:115
+msgid "WP Group List setting"
+msgstr "【WP group list】 設定"
+
+#: ../admin.php:117
+msgid "Share Setting"
+msgstr "分享設定"
+
+#: ../admin.php:120
+msgid "The number of words sharing the post"
+msgstr "分享文章的字數"
+
+#: ../admin.php:131
+msgid "The sharing post comment?"
+msgstr "分享的文章可否回應？"
+
+#: ../admin.php:133
+msgid "disallow"
+msgstr "不允許"
+
+#: ../admin.php:134
+msgid "allow"
+msgstr "允許"
+
+#: ../admin.php:138
+msgid "XML-RPC Setting"
+msgstr "XML-RPC 設定"
+
+#: ../admin.php:139
+msgid "You can use the default username and password, or goto <a href=\"http://wpgroup.org\">WordPress Group</a> signup you own username/password"
+msgstr "你可以使用預設的帳號，或是前往 <a href=\"http://wpgroup.org\">WordPress 聚落</a> 註冊一個你專屬的帳號。"
+
+#: ../admin.php:140
+msgid "Login account you are currently using is:"
+msgstr "目前你使用登入的帳號為："
+
+#: ../admin.php:140
+msgid "default"
+msgstr "預設的"
+
+#: ../admin.php:144
+msgid "Login username"
+msgstr "登入帳號"
+
+#: ../admin.php:145
+#: ../admin.php:149
+msgid "If you want to change the account password, please enter a new username and password. Otherwise blank!"
+msgstr "如果你要變更帳號密碼請輸入新的帳號密碼。否則就留白！"
+
+#: ../admin.php:148
+msgid "login password"
+msgstr "登入密碼"
+
+#: ../admin.php:153
+#: ../admin.php:163
+msgid "Add in list"
+msgstr "加入列表"
+
+#: ../admin.php:157
+msgid "Add in the list at"
+msgstr "加入列表時間"
+
+#: ../admin.php:159
+msgid "Update data"
+msgstr "更新資料"
+
+#: ../main_page.php:76
+msgid "Post By: "
+msgstr "發表者："
+
+#: ../main_page.php:147
+#: ../main_page.php:156
+msgid "WordPress Group post"
+msgstr "WordPress 聚落文章"
+
+#: ../main_page.php:148
+msgid "WGL post list"
+msgstr "WGL 文章列表"
+
+#: ../main_page.php:199
+msgid "Title:"
+msgstr "標題："
+
+#: ../main_page.php:202
+msgid "Total Posts:"
+msgstr "總文章數："
+
+#: ../main_page.php:203
+msgid "Winding Posts:"
+msgstr "捲動文章數："
+
+#: ../main_page.php:204
+msgid "Show Posts:"
+msgstr "顯示文章數："
+
+#: ../main_page.php:207
+msgid "Show only with the language."
+msgstr "僅顯示同語系."
+
+#~ msgid "Update options &raquo;"
+#~ msgstr "更新設定 &raquo;"
